@@ -1,9 +1,9 @@
 //
 //  AppDelegate.m
-//  URLExample
+//  ECURLExample
 //
 //  Created by kiri on 16/8/15.
-//
+//  Copyright © 2016年 kiri. All rights reserved.
 //
 
 #import "AppDelegate.h"
